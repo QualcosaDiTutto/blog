@@ -2,7 +2,7 @@ html{
 text-align:center;
 margin:0 auto;
 background-color: pink;
-background-image: url("asfalto.bmp");
+background-image: url("CoffeeBean.bmp");
 width: auto;
 background-attachment: fixed;
 background-position: center center;
@@ -12,9 +12,9 @@ body{
 text-align:center;
 margin:0 auto;
 background-color: #FFFFFF;
-border-style: none;
-border-color: blue;
-width: 90%;
+border-style: solid;
+border-color: black;
+width: 65%;
 cursor:default;
 font-family:arial;
 }
@@ -50,6 +50,7 @@ h1{
 color:black;
 font-family:vivaldi,Brush Script MT;
 line-height:3px;
+font-size:40px;
 }
 
 h2{
