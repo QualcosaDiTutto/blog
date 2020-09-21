@@ -1,0 +1,104 @@
+html{
+text-align:center;
+margin:0 auto;
+background-color: brown;
+background-image: url("CoffeeBean.bmp");
+width: auto;
+background-attachment: fixed;
+background-position: center center;
+}
+
+body{
+text-align:center;
+margin:0 auto;
+background-color: #FFFFFF;
+border-style: solid;
+border-color: black;
+width: 70%;
+cursor:default;
+font-family:arial;
+}
+
+@media only screen and (max-width: 800px) {
+body{
+width: 100%;
+border-style: none;
+border-color: none;
+
+}
+}
+
+#contenedor{
+margin: 0 auto;
+text-align:left;
+width:90%;
+}
+
+a{
+color:blue;
+}
+
+a:hover{
+color:red;
+}
+
+.gato{
+cursor: url(),auto;
+}
+
+h1{
+color:black;
+font-family:vivaldi,Brush Script MT;
+line-height:3px;
+font-size:40px;
+}
+
+h2{
+color:black;
+font-family:vivaldi;
+}
+
+h4{
+font-family:arial;
+color:blue;
+}
+
+ul{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  top: 0;
+  width: 100%;
+  color:;
+  background-image: url("");
+  background-color:#FFFFFF;
+  position: -webkit-sticky;
+  position: sticky;
+}
+
+p{
+color:black;
+}
+
+#pequeno{
+font-size:26px;
+color:#000000;
+font-family:vivaldi;
+}
+
+button{
+border-style:outset;
+background-color:white;
+color:black;
+cursor:pointer;
+}
+
+button:hover{
+background-color:black;
+color:white;
+}
+
+button:active{
+background-color:black;
+color:white;
+}
