@@ -10,7 +10,9 @@ background-position: center center;
 
 body{
 text-align:center;
-margin:0 auto;
+margin-top:0;
+margin-left:auto;
+margin-right:auto;
 background-color: #FFFFFF;
 border-style: solid;
 border-color: black;
