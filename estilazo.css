@@ -13,6 +13,7 @@ text-align:center;
 margin-top:0;
 margin-left:auto;
 margin-right:auto;
+margin-bottom:0;
 background-color: #FFFFFF;
 border-style: solid;
 border-color: black;
@@ -52,7 +53,7 @@ h1{
 color:black;
 font-family:vivaldi,Brush Script MT;
 line-height:3px;
-font-size:250%;
+font-size:40px;
 }
 
 h2{
@@ -107,4 +108,13 @@ color:white;
 
 .nombre{
 background-color:yellow; 
+}
+
+marquee{
+width:100%;
+background-color:#000000;
+color:#FFFFFF;
+border-style:solid;
+border-color:black;
+font-size:140%;
 }
